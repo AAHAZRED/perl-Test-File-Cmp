@@ -11,7 +11,7 @@ use Test::Builder;
 use Exporter 'import';
 
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 our @EXPORT_OK = qw(file_is);
 
@@ -58,7 +58,7 @@ Test::File::Cmp - Test routine for file comparison independent of CRLF or LF lin
 
 =head1 VERSION
 
-Version 0.04
+Version 0.05
 
 
 =head1 SYNOPSIS
