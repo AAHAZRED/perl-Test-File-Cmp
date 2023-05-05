@@ -63,10 +63,6 @@ Version 0.04
 
 =head1 SYNOPSIS
 
-Quick summary of what the module does.
-
-Perhaps a little code snippet.
-
     use Test::File::Cmp qw(file_is);
 
     # ...
